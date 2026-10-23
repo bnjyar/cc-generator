@@ -1,0 +1,18 @@
+{
+  "name": "cc-generator",
+  "version": "1.0.0",
+  "description": "Generate Luhn-valid test credit card numbers.",
+  "main": "src/index.js",
+  "bin": {
+    "cc-gen": "src/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["credit-card", "generator", "luhn", "testing"],
+  "author": "Hermes Agent",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

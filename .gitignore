@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# misc
+.DS_Store
